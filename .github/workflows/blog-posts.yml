@@ -1,0 +1,31 @@
+name: Update latest blog posts
+on:
+  schedule:
+    - cron: "40 14 * * *"     # 매일 23:40 KST (일일 회고는 보통 저녁에 발행) — 안전망
+  workflow_dispatch: {}        # 수동 실행
+  repository_dispatch:
+    types: [blog-published]    # 외부 트리거용 (현재 발신 워크플로 없음)
+permissions:
+  contents: write
+concurrency:
+  group: blog-posts
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Rewrite README section
+        env:
+          FEED_URL: https://zeno0505.github.io/dev-articles/feed.xml
+          POST_COUNT: "5"
+        run: python .github/scripts/update_readme_posts.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then echo "no change"; exit 0; fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(readme): update latest blog posts" -- README.md
+          git push
