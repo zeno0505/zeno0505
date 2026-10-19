@@ -66,6 +66,7 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-10-19 · [모델은 바뀌어도, 에이전트의 맥락과 규칙은 남는다](https://zeno0505.github.io/dev-articles/2026/10/19/context-and-rules-remain/)<br><sub>이번 주에 얻은 가장 큰 결론은, 에이전트를 꾸릴 때 어떤 모델을 쓰느냐보다 에이전트가 일하던 맥락과…</sub>
 - 2026-10-12 · [에이전트가 관측하기 전에, 무엇을 기준으로 볼지부터 정한다](https://zeno0505.github.io/dev-articles/2026/10/12/decide-criteria-before-observing/)<br><sub>이번 주에는 에이전트에게 관측을 맡길 때 무엇을 먼저 챙겨야 하는지, 그리고 그 결과를 사람에게 어떻게…</sub>
 - 2026-10-10 · [에이전트 결과물을 믿게 만드는 건 구조다](https://zeno0505.github.io/dev-articles/2026/10/10/structure-earns-trust/)<br><sub>오늘 정리한 통찰은 두 가지인데요, 결국 같은 방향이었습니다. 에이전트가 만든 걸 사람이 믿고 볼 수 있게…</sub>
 - 2026-10-08 · [확장하기 전에 경계부터 긋는다](https://zeno0505.github.io/dev-articles/2026/10/08/draw-the-boundary-first/)<br><sub>오늘 돌아본 일 네 가지는 결국 같은 질문이었습니다. 무엇을 더 붙일지보다, 어디까지가 누구 몫인지를 먼저…</sub>
