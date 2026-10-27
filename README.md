@@ -66,11 +66,11 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-10-27 · [막기 전에 제약을 묻고, 바꾸기 전에 지킬 것을 정한다](https://zeno0505.github.io/dev-articles/2026/10/27/fixed-or-changeable/)<br><sub>오늘 하루를 돌아봤는데요. 무엇이 정말 고정값이고 무엇은 바꿔도 되는지부터 가르는 이야기로 정리가…</sub>
+- 2026-10-26 · [정상으로 보이는 경우까지 적고, 굴릴 수 있는 데서 끊는다](https://zeno0505.github.io/dev-articles/2026/10/26/name-the-boundaries/)<br><sub>오늘 하루를 돌아봤는데요. 어디까지가 괜찮아 보이는지, 어디서 멈추고 사람에게 넘길지를 미리 그어 두는…</sub>
 - 2026-10-23 · [사람의 주의는 아끼고, 상태는 저장소에 둔다](https://zeno0505.github.io/dev-articles/2026/10/23/save-attention-keep-state/)<br><sub>오늘 하루를 돌아봤는데요. 사람이 꼭 봐야 하는 것만 사람에게 가게 하고, 남아야 하는 건 사라지지 않는…</sub>
 - 2026-10-22 · [막히면 말하고, 대신하면 좁힌다](https://zeno0505.github.io/dev-articles/2026/10/22/say-it-when-stuck/)<br><sub>오늘 하루를 돌아봤는데요. 사람에게든 기록에든, 지금 무엇이 확인됐고 무엇이 비었는지를 정확히 넘기는 게…</sub>
 - 2026-10-21 · [늘리기 전에, 묻기 전에, 다시 쓰기 전에 비용부터 본다](https://zeno0505.github.io/dev-articles/2026/10/21/know-the-cost-first/)<br><sub>오늘 하루를 돌아보니, 무언가를 늘리거나 묻거나 다시 만들기 전에 그 일 한 번의 비용부터 알아야 한다는…</sub>
-- 2026-10-20 · [가져올 땐 기준점을, 줄일 땐 무게부터](https://zeno0505.github.io/dev-articles/2026/10/20/reference-and-weight/)<br><sub>오늘 하루를 돌아보니, 무언가를 가져오거나 줄이기 전에 기준부터 잡아 둬야 한다는 이야기로 정리가…</sub>
-- 2026-10-19 · [모델은 바뀌어도, 에이전트의 맥락과 규칙은 남는다](https://zeno0505.github.io/dev-articles/2026/10/19/context-and-rules-remain/)<br><sub>이번 주에 얻은 가장 큰 결론은, 에이전트를 꾸릴 때 어떤 모델을 쓰느냐보다 에이전트가 일하던 맥락과…</sub>
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기 →](https://zeno0505.github.io/dev-articles/)
