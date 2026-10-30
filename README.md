@@ -66,11 +66,11 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
-- 2026-10-27 · [막기 전에 제약을 묻고, 바꾸기 전에 지킬 것을 정한다](https://zeno0505.github.io/dev-articles/2026/10/27/fixed-or-changeable/)<br><sub>오늘 하루를 돌아봤는데요. 무엇이 정말 고정값이고 무엇은 바꿔도 되는지부터 가르는 이야기로 정리가…</sub>
-- 2026-10-26 · [정상으로 보이는 경우까지 적고, 굴릴 수 있는 데서 끊는다](https://zeno0505.github.io/dev-articles/2026/10/26/name-the-boundaries/)<br><sub>오늘 하루를 돌아봤는데요. 어디까지가 괜찮아 보이는지, 어디서 멈추고 사람에게 넘길지를 미리 그어 두는…</sub>
-- 2026-10-23 · [사람의 주의는 아끼고, 상태는 저장소에 둔다](https://zeno0505.github.io/dev-articles/2026/10/23/save-attention-keep-state/)<br><sub>오늘 하루를 돌아봤는데요. 사람이 꼭 봐야 하는 것만 사람에게 가게 하고, 남아야 하는 건 사라지지 않는…</sub>
-- 2026-10-22 · [막히면 말하고, 대신하면 좁힌다](https://zeno0505.github.io/dev-articles/2026/10/22/say-it-when-stuck/)<br><sub>오늘 하루를 돌아봤는데요. 사람에게든 기록에든, 지금 무엇이 확인됐고 무엇이 비었는지를 정확히 넘기는 게…</sub>
-- 2026-10-21 · [늘리기 전에, 묻기 전에, 다시 쓰기 전에 비용부터 본다](https://zeno0505.github.io/dev-articles/2026/10/21/know-the-cost-first/)<br><sub>오늘 하루를 돌아보니, 무언가를 늘리거나 묻거나 다시 만들기 전에 그 일 한 번의 비용부터 알아야 한다는…</sub>
+- 2026-10-29 · [급한 쪽부터 자르고, 고칠 자리는 가리키고, 원문은 그대로 둔다](https://zeno0505.github.io/dev-articles/2026/10/29/split-where-it-sticks/)<br><sub>오늘 한 일 세 가지는 모두 한 덩어리를 어디서 나누느냐의 문제였습니다. 나눌 자리를 정하고 나니…</sub>
+- 2026-10-27 · [막기 전에 제약을 묻고, 바꾸기 전에 지킬 것을 정한다](https://zeno0505.github.io/dev-articles/2026/10/27/fixed-or-changeable/)<br><sub>고정값처럼 보이던 것 중에 바꿔도 되는 게 있었고, 바꿔도 될 것 같던 것 중에 지켜야 하는 게…</sub>
+- 2026-10-26 · [정상으로 보이는 경우까지 적고, 굴릴 수 있는 데서 끊는다](https://zeno0505.github.io/dev-articles/2026/10/26/name-the-boundaries/)<br><sub>괜찮아 보이는 범위와 사람에게 넘길 지점은 일이 터지기 전에 그어 둬야 한다고 봅니다. 오늘 겪은 두 가지…</sub>
+- 2026-10-23 · [사람의 주의는 아끼고, 상태는 저장소에 둔다](https://zeno0505.github.io/dev-articles/2026/10/23/save-attention-keep-state/)<br><sub>사람의 주의와 에이전트의 상태는 둘 다 쉽게 새어 나갑니다. 그래서 사람에게는 꼭 봐야 하는 것만 보내고…</sub>
+- 2026-10-22 · [막히면 말하고, 대신하면 좁힌다](https://zeno0505.github.io/dev-articles/2026/10/22/say-it-when-stuck/)<br><sub>일이 막혔을 때 가장 먼저 할 일은 무엇이 확인됐고 무엇이 비었는지를 그대로 넘기는 거라고 봅니다…</sub>
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기 →](https://zeno0505.github.io/dev-articles/)
