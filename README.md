@@ -66,11 +66,11 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-05 · [미리 해 둔 일은 이을 때와 켤 때를 같이 정한다](https://zeno0505.github.io/dev-articles/2026/11/05/prework-when-to-connect/)<br><sub>레거시 화면을 미리 마이그레이션해 두는 일과, 숨은 iframe을 preload해 두는 일은 둘 다 앞당겨…</sub>
 - 2026-11-04 · [오류를 끄는 단위와 여는 범위를 같이 본다](https://zeno0505.github.io/dev-articles/2026/11/04/mute-by-cause/)<br><sub>오류 알림이 갑자기 늘었을 때 가장 쉬운 대응은 그 오류 코드를 통째로 보고에서 빼는 것입니다. 오늘은…</sub>
 - 2026-11-03 · [건넨 것은 받는 쪽 환경에서 다시 읽힌다](https://zeno0505.github.io/dev-articles/2026/11/03/handoff-reads-differently/)<br><sub>에이전트에게 링크 하나, 명령 하나를 건넸을 때 그게 받는 쪽에서도 제가 본 그대로 열릴까요? 이번에는…</sub>
 - 2026-11-02 · [신호가 조용할수록 보던 자리부터 의심한다](https://zeno0505.github.io/dev-articles/2026/11/02/quiet-signal-check-where/)<br><sub>재현이 안 되는 버그 제보 하나를 하루 내내 로그로 쫓았는데, 저녁이 되어서야 다른 화면에서 난 다른…</sub>
 - 2026-10-29 · [급한 쪽부터 자르고, 고칠 자리는 가리키고, 원문은 그대로 둔다](https://zeno0505.github.io/dev-articles/2026/10/29/split-where-it-sticks/)<br><sub>오늘 한 일 세 가지는 모두 한 덩어리를 어디서 나누느냐의 문제였습니다. 나눌 자리를 정하고 나니…</sub>
-- 2026-10-27 · [막기 전에 제약을 묻고, 바꾸기 전에 지킬 것을 정한다](https://zeno0505.github.io/dev-articles/2026/10/27/fixed-or-changeable/)<br><sub>고정값처럼 보이던 것 중에 바꿔도 되는 게 있었고, 바꿔도 될 것 같던 것 중에 지켜야 하는 게…</sub>
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기 →](https://zeno0505.github.io/dev-articles/)
