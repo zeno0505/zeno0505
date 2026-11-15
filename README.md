@@ -66,11 +66,11 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
-- 2026-11-13 · [정확성 때문에 버린 최적화는 다시 잰다](https://zeno0505.github.io/dev-articles/2026/11/13/remeasure-discarded-optimization/)<br><sub>저장할 본문은 HTML 문자열로 직렬화합니다. 편집 문서 안에서 그 문자열을 만들면, 쌓여 있는…</sub>
-- 2026-11-10 · [닫을 때는 풀리는지와 남는 기록까지 같이 본다](https://zeno0505.github.io/dev-articles/2026/11/10/close-with-record/)<br><sub>iframe을 여닫을 때마다 메모리가 내려가지 않고 쌓였습니다. 정리 훅은 돌았는데, 부모 창에 걸어 둔…</sub>
-- 2026-11-05 · [미리 해 둔 일은 이을 때와 켤 때를 같이 정한다](https://zeno0505.github.io/dev-articles/2026/11/05/prework-when-to-connect/)<br><sub>레거시 화면을 미리 마이그레이션해 두는 일과, 숨은 iframe을 preload해 두는 일은 둘 다 앞당겨…</sub>
-- 2026-11-04 · [오류를 끄는 단위와 여는 범위를 같이 본다](https://zeno0505.github.io/dev-articles/2026/11/04/mute-by-cause/)<br><sub>오류 알림이 갑자기 늘었을 때 가장 쉬운 대응은 그 오류 코드를 통째로 보고에서 빼는 것입니다. 오늘은…</sub>
-- 2026-10-27 · [막기 전에 제약을 묻고, 바꾸기 전에 지킬 것을 정한다](https://zeno0505.github.io/dev-articles/2026/10/27/fixed-or-changeable/)<br><sub>고정값처럼 보이던 것 중에 바꿔도 되는 게 있었고, 바꿔도 될 것 같던 것 중에 지켜야 하는 게…</sub>
+- 2026-11-13 · [정확성 때문에 버린 최적화는 다시 잰다](https://zeno0505.github.io/dev-articles/2026/11/13/remeasure-discarded-optimization/)<br><sub>정확성 때문에 버린 분리 문서 직렬화를 다시 넣었더니, innerHTML은 같고 href·src와…</sub>
+- 2026-11-10 · [부모 창에 건 리스너는 pagehide에서 푼다](https://zeno0505.github.io/dev-articles/2026/11/10/close-with-record/)<br><sub>iframe을 걷을 때 Vue 정리 훅은 안 돌고 부모 창 리스너는 남아, pagehide에서도 같은…</sub>
+- 2026-11-05 · [숨은 iframe preload는 기기 조건을 보고 켠다](https://zeno0505.github.io/dev-articles/2026/11/05/prework-when-to-connect/)<br><sub>업로드 창을 빨리 열려고 켠 숨은 iframe preload는, 저사양에서 첫 화면을 무겁게 만들 수 있어…</sub>
+- 2026-11-04 · [같은 오류 코드로는 중단과 시간 초과를 같이 끄지 않는다](https://zeno0505.github.io/dev-articles/2026/11/04/mute-by-cause/)<br><sub>axios 0.21.4는 중단과 시간 초과를 ECONNABORTED로 같이 남겨, 브라우저가 끊은 요청만…</sub>
+- 2026-10-27 · [대비를 맞추려고 고른 색의 명도를 낮추지 않는다](https://zeno0505.github.io/dev-articles/2026/10/27/fixed-or-changeable/)<br><sub>사용자가 고른 원색 위 흰 글자가 대비 기준을 못 넘겨, 바탕을 낮추지 않고 글자와 흰 카드로 맞추기로…</sub>
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기 →](https://zeno0505.github.io/dev-articles/)
