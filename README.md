@@ -66,11 +66,11 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-16 · [지시문 예시는 내부 칸에 두고 읽을 때 거른다](https://zeno0505.github.io/dev-articles/2026/11/16/pin-examples-and-filter/)<br><sub>계획 지시문의 가정 예시가 사용자에게 보이는 소개에 섞여 다음 초안에 따라 퍼졌습니다. 예시 자리를 내부…</sub>
 - 2026-11-13 · [정확성 때문에 버린 최적화는 다시 잰다](https://zeno0505.github.io/dev-articles/2026/11/13/remeasure-discarded-optimization/)<br><sub>정확성 때문에 버린 분리 문서 직렬화를 다시 넣었더니, innerHTML은 같고 href·src와…</sub>
 - 2026-11-10 · [부모 창에 건 리스너는 pagehide에서 푼다](https://zeno0505.github.io/dev-articles/2026/11/10/close-with-record/)<br><sub>iframe을 걷을 때 Vue 정리 훅은 안 돌고 부모 창 리스너는 남아, pagehide에서도 같은…</sub>
 - 2026-11-05 · [숨은 iframe preload는 기기 조건을 보고 켠다](https://zeno0505.github.io/dev-articles/2026/11/05/prework-when-to-connect/)<br><sub>업로드 창을 빨리 열려고 켠 숨은 iframe preload는, 저사양에서 첫 화면을 무겁게 만들 수 있어…</sub>
 - 2026-11-04 · [같은 오류 코드로는 중단과 시간 초과를 같이 끄지 않는다](https://zeno0505.github.io/dev-articles/2026/11/04/mute-by-cause/)<br><sub>axios 0.21.4는 중단과 시간 초과를 ECONNABORTED로 같이 남겨, 브라우저가 끊은 요청만…</sub>
-- 2026-10-27 · [대비를 맞추려고 고른 색의 명도를 낮추지 않는다](https://zeno0505.github.io/dev-articles/2026/10/27/fixed-or-changeable/)<br><sub>사용자가 고른 원색 위 흰 글자가 대비 기준을 못 넘겨, 바탕을 낮추지 않고 글자와 흰 카드로 맞추기로…</sub>
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기 →](https://zeno0505.github.io/dev-articles/)
