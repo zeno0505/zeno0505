@@ -1,17 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KIM%20MIN%20JAE&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=KIM%20MIN%20JAE&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer&descAlignY=60&descAlign=62)
 
 <div align="center">
   
-  > "JavaScript를 활용하여 서버 운영, Windows 서비스, Android 앱 개발 등 다양한 분야에 도전하며 <br>
-  > 폭넓은 개발 역량을 갖추는 것을 목표로 하고 있습니다. <br>
-  > 또한, 단순한 기능 구현을 넘어 사용자 중심의 편리한 경험을 제공하는 것을 최우선으로 고민하며 개발합니다."
+  > "문제를 정확히 정의하는 데서 시작해, 기획·개발·검증까지 제품을 끝까지 만드는 Product Engineer입니다. <br>
+  > 사용자가 불편을 겪지 않는 경험을 최우선으로 두고, 반복되는 일은 AI 에이전트 하네스로 검증 가능한 흐름으로 바꿉니다."
 
 </div>
-
-## 👨‍💻 About Me
-
-- 📝 "문제를 해결하는 개발자" - 문제를 정확히 정의하고 해결하는 능력을 중요시합니다
-- 🎨 "사용자 경험을 고려하는 개발" - 사용자가 불편한 서비스 경험을 갖지 않도록 노력합니다.
 
 ## 🛠️ Tech Stack
 
