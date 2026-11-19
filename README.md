@@ -60,11 +60,11 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
+- 2026-11-19 · [방치된 탭의 주기 조회를 시간 측정 대신 조작 표시로 늦추기](https://zeno0505.github.io/dev-articles/2026/11/19/slow-polling-by-touch-flag/)<br><sub>에이전틱 브라우저를 여러 개 띄워 둔 채 주기적으로 페이지를 긁어 가는 계정이 발견되면서 대량 트래픽이…</sub>
 - 2026-11-18 · [비즈니스 구조를 개선하는 사용자 AI 서비스 제작기](https://zeno0505.github.io/dev-articles/2026/11/18/api-spec-in-the-browser/)<br><sub>서버 인력 없이 프론트엔드만으로, 유저 운영을 돕는 에이전트에 API 명세만 넘기고 실행은 브라우저에서…</sub>
-- 2026-11-18 · [사람은 프록시가 아니라 오케스트레이터가 되어야 한다](https://zeno0505.github.io/dev-articles/2026/11/18/be-an-orchestrator-not-a-proxy/)<br><sub>연초에 태스크를 받아 변경 요청까지 잇는 하네스를 만들어 공개했습니다. 병목은 생성이 아니라 검수였고…</sub>
-- 2026-11-18 · [자동화 트래픽은 분석 수집 단계에서 끈다](https://zeno0505.github.io/dev-articles/2026/11/18/turn-off-analytics-at-collection/)<br><sub>최근 트래픽이 비정상적으로 늘어난 현상을 조사하다가, 분석 이벤트가 오염된 걸 확인했습니다. 브라우저…</sub>
-- 2026-11-17 · [SSR에서 부르는 API는 세션과 첫 화면으로 나눈다](https://zeno0505.github.io/dev-articles/2026/11/17/ssr-apis-by-session-and-screen/)<br><sub>서버가 페이지를 그리는 시점에 로그인 확인과 설정 API가 봇 요청에도 같이 나갔습니다. 세션 쿠키 유무와…</sub>
-- 2026-11-16 · [지시문 예시는 내부 칸에 두고 읽을 때 거른다](https://zeno0505.github.io/dev-articles/2026/11/16/pin-examples-and-filter/)<br><sub>계획 지시문의 가정 예시가 사용자에게 보이는 소개에 섞여 다음 초안에 따라 퍼졌습니다. 예시 자리를 내부…</sub>
+- 2026-11-18 · [사람이 프록시가 아니라 오케스트레이터가 되기](https://zeno0505.github.io/dev-articles/2026/11/18/be-an-orchestrator-not-a-proxy/)<br><sub>연초에 태스크를 받아 변경 요청까지 잇는 하네스를 만들어 공개했습니다. 병목은 생성이 아니라 검수였고…</sub>
+- 2026-11-18 · [자동화 트래픽을 분석 수집 단계에서 끄기](https://zeno0505.github.io/dev-articles/2026/11/18/turn-off-analytics-at-collection/)<br><sub>최근 트래픽이 비정상적으로 늘어난 현상을 조사하다가, 분석 이벤트가 오염된 걸 확인했습니다. 브라우저…</sub>
+- 2026-11-17 · [SSR에서 부르는 API를 세션과 첫 화면으로 나누기](https://zeno0505.github.io/dev-articles/2026/11/17/ssr-apis-by-session-and-screen/)<br><sub>서버가 페이지를 그리는 시점에 로그인 확인과 설정 API가 봇 요청에도 같이 나갔습니다. 세션 쿠키 유무와…</sub>
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기 →](https://zeno0505.github.io/dev-articles/)
