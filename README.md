@@ -60,11 +60,11 @@
 ## ✍️ 최근 회고
 
 <!-- BLOG-POST-LIST:START -->
-- 2026-11-19 · [방치된 탭의 주기 조회를 시간 측정 대신 조작 표시로 늦추기](https://zeno0505.github.io/dev-articles/2026/11/19/slow-polling-by-touch-flag/)<br><sub>에이전틱 브라우저를 여러 개 띄워 둔 채 주기적으로 페이지를 긁어 가는 계정이 발견되면서 대량 트래픽이…</sub>
-- 2026-11-18 · [비즈니스 구조를 개선하는 사용자 AI 서비스 제작기](https://zeno0505.github.io/dev-articles/2026/11/18/api-spec-in-the-browser/)<br><sub>서버 인력 없이 프론트엔드만으로, 유저 운영을 돕는 에이전트에 API 명세만 넘기고 실행은 브라우저에서…</sub>
-- 2026-11-18 · [사람이 프록시가 아니라 오케스트레이터가 되기](https://zeno0505.github.io/dev-articles/2026/11/18/be-an-orchestrator-not-a-proxy/)<br><sub>연초에 태스크를 받아 변경 요청까지 잇는 하네스를 만들어 공개했습니다. 병목은 생성이 아니라 검수였고…</sub>
-- 2026-11-18 · [자동화 트래픽을 분석 수집 단계에서 끄기](https://zeno0505.github.io/dev-articles/2026/11/18/turn-off-analytics-at-collection/)<br><sub>최근 트래픽이 비정상적으로 늘어난 현상을 조사하다가, 분석 이벤트가 오염된 걸 확인했습니다. 브라우저…</sub>
-- 2026-11-17 · [SSR에서 부르는 API를 세션과 첫 화면으로 나누기](https://zeno0505.github.io/dev-articles/2026/11/17/ssr-apis-by-session-and-screen/)<br><sub>서버가 페이지를 그리는 시점에 로그인 확인과 설정 API가 봇 요청에도 같이 나갔습니다. 세션 쿠키 유무와…</sub>
+- 2026-11-21 · [비용 부채를 줄이며 기능 개발을 이어 가는 마이그레이션 자동화 팀 꾸리기](https://zeno0505.github.io/dev-articles/2026/11/21/migration-automation-team-while-paying-down-cost-debt/)<br><sub>경로별 부분배포로 마이그레이션하는 동안에는 한 컨테이너에서 Nuxt2와 Nuxt4 프로세스를 같이 띄워야…</sub>
+- 2026-11-20 · [알지만 여력이 없던 일을 별도 사용량으로 돌리기](https://zeno0505.github.io/dev-articles/2026/11/20/run-known-but-unstaffed-checks-on-separate-usage/)<br><sub>오류 모니터링, 접근성, 검색 최적화처럼 필요한 줄 알면서도 밀리던 점검을 개발과 따로 집계되는 사용량으로…</sub>
+- 2026-11-20 · [QA 부하를 줄이기 위한 테스트 플랫폼 제작기](https://zeno0505.github.io/dev-articles/2026/11/20/test-platform-to-reduce-qa-load/)<br><sub>에이전트 덕에 개발이 쉬워진 만큼 버그도 늘었고, 에이전트가 자기 작업의 신뢰도를 보장하려면 판정부터 믿을…</sub>
+- 2026-11-20 · [실패한 에이전트 하네스, dailyagent 돌아보기](https://zeno0505.github.io/dev-articles/2026/11/20/failed-agent-harness-dailyagent-retrospective/)<br><sub>노션 태스크를 변경 요청까지 잇던 dailyagent는 끝까지 돌아갔고 변경 요청 대부분이 병합되었지만…</sub>
+- 2026-11-20 · [Nuxt4를 품는 모노레포에서 경로별 부분배포로 마이그레이션 이어 가기](https://zeno0505.github.io/dev-articles/2026/11/20/partial-deploy-by-path-in-nuxt4-monorepo/)<br><sub>마이그레이션이 기능 개발 속도를 따라가지 못해, 옮긴 경로부터 먼저 내보내는 경로별 부분배포를 Nuxt4를…</sub>
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기 →](https://zeno0505.github.io/dev-articles/)
